@@ -1,7 +1,7 @@
 # Excel-Healthcare-Data-Analysis
 ## Table of Contents
 
-* [Project Overview](#Project Overview)
+* [Project Overview]
 * 
 ## Project Overview
 
