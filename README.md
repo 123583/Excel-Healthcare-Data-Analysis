@@ -1,7 +1,7 @@
 # Excel-Healthcare-Data-Analysis
 ## Table of Contents
 
-* (https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/README.md#project-overview-)
+* [Project Overview](project overview)
 * 
 ## Project Overview <a name="project overview"></a>
 
