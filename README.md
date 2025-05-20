@@ -6,6 +6,10 @@
 * [Tools and Methodology](#tools-and-methodology)
 * [Dashboard](#dashboard)
 * [Key Insights](#key-insights)
+* [Recommendations](#recommendations)
+* [Conclusion](#conclusion)
+
+
 ## Project Overview <a name="project-overview"></a>
 
 This Excel-based project analyzes healthcare data to inform strategic decisions and enhance efficiency. Key dimensions include patient demographics, hospital performance, medication usage, insurance dynamics, and geographic trends. The findings support evidence-based decision-making in healthcare administration, resource planning, and patient care.
@@ -64,12 +68,28 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
    medications have been administered across all the conditions diagnosed.
  * All of the test results from patients diagnosed with Hypertension, 
    Cancer and Asthma are ***Abnormal*** while all test results from 
-   patients diagnosed with Obesity and Arthritis are ***Inconclusive*** 
-   and ***Normal*** respectively.
+   patients diagnosed with Obesity and Arthritis are **Inconclusive** 
+   and **Normal** respectively.
 
 ### Insurance & Billing
 
   * The total amount of bills paid is ***$1.417 Billion***
-  * ***Medicare*** commands the insurance market share at **49.91%** with 
-    a total payout of ***$707.47 Million***. However, a key point of 
-    concern is Medicare only insured Female patients.
+  * **Medicare** commands the insurance market share at **49.91%** with 
+    a total payout of **$707.47 Million**. However, a key point of 
+    concern is; Medicare only insures Female patients.
+
+## Recommendations <a = name "recommendations"><a/>
+
+  * Initiate sensitization programs to encourage early screening for 
+    chronic conditions across all the ages, especially for people with 
+    **A+/O+" blood types to enhance early detection for better management 
+    of the conditions.
+  * Review and audit billing practices at Medicare as it accounts for 
+    almost half ot the total billing and all of their payout is to female 
+    patients.
+  * Ensure adequate resource allocation to Houston Methodist and John 
+    Hopkins Hospitals as they account for the highest admissions in order 
+    to maintain excellent service delivery and comfortably meet the 
+    patient volume.
+
+## Conclusion <a = name "conclusion"><a/>
