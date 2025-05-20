@@ -30,10 +30,15 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 ## Key Insights <a name = "key-insights"><a/>
 
 ### Patients & Condition Demographics
- * A total of 55,000 patients were attended to across different hospitals.
+
+ * A total of **55,000** patients were attended to across different hospitals.
  * The gender distribution of patients include: **Female - 50%, Male -     
-  40%**,and **Non-binary - 10%**.
- * The state of Texas leads in the number of diagnoses with over 20,000 patients.
+   40%**,and **Non-binary - 10%**.
+ * The state of **Texas** leads in the number of diagnoses with over **20,000** 
+   patients.
+ * **2020** is the year with the most diagnoses, pointing to the relation 
+   between **COVID 19** and chronic conditions
  * **Hypertension, Diabetes** and **Obesity** are the **Top 3** most diagnosed 
-  medical conditions each affecting over **12,000** patients 
+   medical conditions each affecting over **12,000** patients.
+ * Majority of the diagnoses are of people within the age bracket of **21-80**.
    
