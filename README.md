@@ -84,7 +84,7 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
     a total payout of **$707.47 Million**. However, a key point of 
     concern is; Medicare only insures Female patients.
 
-## Recommendations < a  name= "recommendations"></a>
+## Recommendations <a name= "recommendations"></a>
 
   * Initiate sensitization programs to encourage early screening for 
     chronic conditions across all the ages, especially for people with 
