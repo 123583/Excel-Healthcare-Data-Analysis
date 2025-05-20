@@ -20,4 +20,8 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 
 ## Dashboard <a name = "dashboard"></a>
 
-### Page 1: Patients Demographics & Medical Overview
+### Dash1: Patients & Conditions Demographics
+
+### Dash2: Hospital Operations Insights
+
+### Dash3: Insurance & Operational Insights 
