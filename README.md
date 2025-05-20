@@ -36,13 +36,13 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 
 
 
-### Dash2: Hospital Operations Insights
+### Dash2: Hospital Performance Insights
 
 ![Hospital Dshboard](https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/Hospital%20Dashboard.png)
 
 
 
-### Dash3: Insurance & Operational Insights 
+### Dash3: Insurance Dynamics 
 
 ![Insurance Dashboard](https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/Insurance%20Dashboard.png)
 
