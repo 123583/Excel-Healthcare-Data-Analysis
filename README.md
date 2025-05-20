@@ -8,11 +8,13 @@
 * [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
 * [Conclusion](#conclusion)
-
+  
+***
 
 ## Project Overview <a name="project-overview"></a>
 
 This Excel-based project analyzes healthcare data to inform strategic decisions and enhance efficiency. Key dimensions include patient demographics, hospital performance, medication usage, insurance dynamics, and geographic trends. The findings support evidence-based decision-making in healthcare administration, resource planning, and patient care.
+
 ***
 
 ## Data Source <a name="data-source"></a>
@@ -23,6 +25,8 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 
 * **Microsoft Excel**: Used for preliminary data cleaning, exploratory data analysis(EDA) and dashboard creation.
 *  **Ms Excel Power Query**: Used to convert geographical coordinates (latitude & longitude) into physical state names.
+
+***
 
 ## Dashboard <a name = "dashboard"></a>
 
@@ -37,6 +41,8 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 ### Dash3: Insurance & Operational Insights 
 
 ![Insurance Dashboard](https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/Insurance%20Dashboard.png)
+
+***
 
 ## Key Insights <a name = "key-insights"></a>
 
@@ -85,6 +91,8 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
     a total payout of **$707.47 Million**. However, a key point of 
     concern is; Medicare only insures Female patients.
 
+***
+
 ## Recommendations <a name= "recommendations"></a>
 
   * Initiate sensitization programs to encourage early screening for 
@@ -98,5 +106,7 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
     Hopkins Hospitals as they account for the highest admissions in order 
     to maintain excellent service delivery and comfortably meet the 
     patient volume.
+
+***
 
 ## Conclusion <a name= "conclusion"></a>
