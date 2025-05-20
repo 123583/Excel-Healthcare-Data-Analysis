@@ -37,8 +37,31 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
  * The state of **Texas** leads in the number of diagnoses with over **20,000** 
    patients.
  * **2020** is the year with the most diagnoses, pointing to the relation 
-   between **COVID 19** and chronic conditions
+   between **COVID 19** and chronic conditions.
  * **Hypertension, Diabetes** and **Obesity** are the **Top 3** most diagnosed 
    medical conditions each affecting over **12,000** patients.
  * Majority of the diagnoses are of people within the age bracket of **21-80**.
-   
+
+### Conditions Distribution by Gender & Blood Type
+
+ * Hypertension and Diabetes are more common among females while Obesity, 
+   Diabetes and Hypertension are more common among men.
+ * Patients with Blood Groups **A+** and **O+** are more likely to be diagnosed 
+   with a chronic medical condition having recorded the most diagnoses among 
+   patients recorded.
+ * Cancer, Arthritis and Asthma appear to have been less frequently diagnosed 
+   among the patients.
+
+### Admissions and Hospital Trends
+
+ * The average admission days is **15.55** days.
+ * Houston Methodist Hospital leads in the number of admissions at **20,402** 
+  patients accounting for almost **50%** of the total admissions.
+ * Admission types are evenly distributed with Elective at **33.61%** of the 
+   total admissions, closely followed by Urgent admissions(**33.47%**) , and 
+   Emergency admissions(**32.92%**).
+ * **Lipitor** is the most administered medication. In addition, all the 
+   medications have been administered across all the conditions diagnosed.
+ * All of the test results from patients diagnosed with Hypertension, Cancer 
+   and Asthma are **Abnormal** while all test results from patients diagnosed 
+   with Obesity and Arthritis are **Inconclusive** and **Normal** respectively. 
