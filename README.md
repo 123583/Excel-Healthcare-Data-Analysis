@@ -28,7 +28,10 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 ### Dash1: Patients & Conditions Demographics
 
 ![Patient Dashboard](https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/Patient%20Dashboard.png)
+
 ### Dash2: Hospital Operations Insights
+
+![Hospital Dshboard](https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/Hospital%20Dashboard.png)
 
 ### Dash3: Insurance & Operational Insights 
 
