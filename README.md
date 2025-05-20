@@ -62,6 +62,14 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
    Emergency admissions(**32.92%**).
  * **Lipitor** is the most administered medication. In addition, all the 
    medications have been administered across all the conditions diagnosed.
- * All of the test results from patients diagnosed with Hypertension, Cancer 
-   and Asthma are **Abnormal** while all test results from patients diagnosed 
-   with Obesity and Arthritis are **Inconclusive** and **Normal** respectively. 
+ * All of the test results from patients diagnosed with Hypertension, 
+   Cancer and Asthma are ***Abnormal*** while all test results from 
+   patients diagnosed with Obesity and Arthritis are ***Inconclusive*** 
+   and ***Normal*** respectively.
+
+### Insurance & Billing
+
+  * The total amount of bills paid is ***$1.417 Billion***
+  * ***Medicare*** commands the insurance market share at **49.91%** with 
+    a total payout of ***$707.47 Million***. However, a key point of 
+    concern is Medicare only insured Female patients.
