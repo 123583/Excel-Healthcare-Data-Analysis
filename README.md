@@ -5,6 +5,7 @@
 * [Data Source](#data-source)
 * [Tools and Methodology](#tools-and-methodology)
 * [Dashboard](#dashboard)
+* [Key Insights](#key-insights)
 ## Project Overview <a name="project-overview"></a>
 
 This Excel-based project analyzes healthcare data to inform strategic decisions and enhance efficiency. Key dimensions include patient demographics, hospital performance, medication usage, insurance dynamics, and geographic trends. The findings support evidence-based decision-making in healthcare administration, resource planning, and patient care.
@@ -25,3 +26,14 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 ### Dash2: Hospital Operations Insights
 
 ### Dash3: Insurance & Operational Insights 
+
+## Key Insights <a name = "key-insights"><a/>
+
+### Patients & Condition Demographics
+ * A total of 55,000 patients were attended to across different hospitals.
+ * The gender distribution of patients include: **Female - 50%, Male -     
+  40%**,and **Non-binary - 10%**.
+ * The state of Texas leads in the number of diagnoses with over 20,000 patients.
+ * **Hypertension, Diabetes** and **Obesity** are the **Top 3** most diagnosed 
+  medical conditions each affecting over **12,000** patients 
+   
