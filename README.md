@@ -35,7 +35,9 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
 
 ### Dash3: Insurance & Operational Insights 
 
-## Key Insights <a name = "key-insights"><a/>
+![Insurance Dashboard](https://github.com/123583/Excel-Healthcare-Data-Analysis/blob/main/Insurance%20Dashboard.png)
+
+## Key Insights <a name = "key-insights"></a>
 
 ### Patients & Condition Demographics
 
@@ -82,7 +84,7 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
     a total payout of **$707.47 Million**. However, a key point of 
     concern is; Medicare only insures Female patients.
 
-## Recommendations <a = name "recommendations"><a/>
+## Recommendations <a = name "recommendations"></a>
 
   * Initiate sensitization programs to encourage early screening for 
     chronic conditions across all the ages, especially for people with 
@@ -96,4 +98,4 @@ This dataset was provided by Onyx Data as part of their **April 2025 Data DNA Ch
     to maintain excellent service delivery and comfortably meet the 
     patient volume.
 
-## Conclusion <a = name "conclusion"><a/>
+## Conclusion <a = name "conclusion"></a>
